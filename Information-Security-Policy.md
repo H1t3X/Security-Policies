@@ -162,7 +162,7 @@ Any exceptions to this policy must be documented and justified. All exceptions m
 
 **Portfolio:** hitesh114.github.io/h1t3x
 
-**Version:** 1.0 | April 2026
+**Version:** 1.0 | April 2026 
 
 **Next Review Date:** October 2026
 
