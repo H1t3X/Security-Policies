@@ -14,6 +14,12 @@ To define structured security rules based on identified risks and ISO 27001 cont
 * Access Control Policy (Upcoming)
 * Password Policy (Upcoming)
 
+## 📊 Policy Coverage
+
+- Information Security ✔️  
+- Access Control 🔜  
+- Password Policy 🔜  
+
 ## 🔗 Related Work
 
 * Risk Assessment: https://github.com/H1t3X/GRC-Risk-Assessment
@@ -25,6 +31,10 @@ To define structured security rules based on identified risks and ISO 27001 cont
 * Data protection
 * Secure development
 * Monitoring and logging
+
+## 🧠 Why This Project
+
+This project was built to simulate a real-world GRC workflow by applying risk assessment, ISO 27001 control mapping, and policy development to a live system.
 
 ## 🚀 Outcome
 
