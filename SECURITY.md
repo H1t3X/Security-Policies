@@ -11,3 +11,4 @@ Please do not report vulnerabilities publicly.
 ## Scope
 
 This policy applies to the H1t3X portfolio project and related repositories.
+ 
