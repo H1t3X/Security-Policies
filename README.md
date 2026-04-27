@@ -11,7 +11,7 @@ To define structured security rules based on identified risks and ISO 27001 cont
 ## 📂 Policies Included
 
 * Information Security Policy
-* Access Control Policy (Upcoming)
+* Access Control Policy
 * Password Policy (Upcoming)
 
 ## 📊 Policy Coverage
