@@ -1,3 +1,6 @@
+**Document Classification:** Public – Portfolio Demonstration  
+**Version:** 1.0  
+**Last Updated:** April 2026  
 **ACCESS CONTROL POLICY**
 
 **H1t3X Portfolio Website**
